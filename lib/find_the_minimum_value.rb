@@ -6,4 +6,5 @@ def find_min_value(array)
       min_value = item
     end
   end
+  min_value
 end
